@@ -1,4 +1,4 @@
-# PySpark
+<img src="spark.png" alt="drawing" width="200"/>
 
 ## Data Frame
 
