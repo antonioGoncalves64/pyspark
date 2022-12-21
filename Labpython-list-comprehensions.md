@@ -1,6 +1,6 @@
-# Python
 
-<img src="python.png" alt="drawing" width="300"/>
+
+<img src="python.png" alt="drawing" width="200"/>
 
 ## List Comprehensions and Generators
 
