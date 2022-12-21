@@ -1,4 +1,4 @@
-# python
+<img src="python.png" alt="drawing" width="200"/>
 
 ## Lab Concurrency
 
