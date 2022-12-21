@@ -1,6 +1,6 @@
 # python
 
-## Lab List Comprehensions and Generators
+## List Comprehensions and Generators
 
 
 
