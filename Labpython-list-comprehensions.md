@@ -21,4 +21,5 @@ The Generator Expression allows us to create a generator without the yield keywo
     
     
     **difference between Generator Expressions and List Comprehensions** The generator yields one item at a time and generates item only when in demand. Whereas, in a list comprehension, Python reserves memory for the whole list. Thus we can say that the generator expressions are memory efficient than the lists.
+
 We can say that generator Expressions are a special kind of function that return a lazy iterator. These are objects that you can loop over like a list. However, unlike lists, lazy iterators do not store their contents in memory.
