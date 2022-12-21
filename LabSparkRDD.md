@@ -1,6 +1,6 @@
-# pyspark
+<img src="spark.png" alt="drawing" width="300"/>
 
-## Intro Spark RDD
+## Spark RDD
 
 
 <a target="_blank" href="https://colab.research.google.com/github/antonioGoncalves64/pyspark/blob/main/LabSparkRDD.ipynb">
