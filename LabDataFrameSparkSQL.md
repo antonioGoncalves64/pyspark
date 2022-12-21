@@ -1,4 +1,4 @@
-<img src="spark.png" alt="drawing" width="200"/>
+<img src="spark.png" alt="drawing" width="400"/>
 
 ## Data Frame
 
