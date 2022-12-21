@@ -18,3 +18,7 @@ When a normal function with a return statement is called, it terminates whenever
 The Generator Expression allows us to create a generator without the yield keyword. Example:
 
     * **_generator_expression = (i for i in range(11) if i % 2 == 0)_**
+    
+    
+    **difference between Generator Expressions and List Comprehensions** The generator yields one item at a time and generates item only when in demand. Whereas, in a list comprehension, Python reserves memory for the whole list. Thus we can say that the generator expressions are memory efficient than the lists.
+We can see this in the example below.
