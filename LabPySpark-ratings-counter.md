@@ -9,23 +9,7 @@
 
 
 
-Pretendemos obter um resumo das classificações de filmes a partir do ficheiro (ratings.csv) que contem milhares de dados de classificações de filmes. No final pretendemos obter a seguinte informação:
-
-* 0.5, 18408
-* 1.0, 40233
-* 1.5, 21566
-* 2.0, 85616
-* 2.5, 65307
-* 3.0, 256838
-* 3.5, 164152
-* 4.0, 349862
-* 4.5, 113879
-* 5.0, 556793
-
-
-
-
-O ficheiro **ratings.csv**  está disponível para consulta em [movielens](https://grouplens.org/datasets/movielens/) e é composto por um conjunto de dados e que contém a  25 milhões de classificações realizadas a 62.000 filmes por 162.000 utilizadores. Onde cada linha representa o números de filmes que forma classificados com um dado valor.
+Pretendemos obter um resumo das classificações de filmes a partir do ficheiro (ratings.csv) que contem milhares de dados de classificações de filmes.  O ficheiro **ratings.csv**  está disponível para consulta em [movielens](https://grouplens.org/datasets/movielens/) e é composto por um conjunto de dados e que contém a  25 milhões de classificações realizadas a 62.000 filmes por 162.000 utilizadores. Onde cada linha representa o números de filmes que forma classificados com um dado valor.
 
 ## Formatação e Codificação
 
